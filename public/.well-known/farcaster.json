@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "Bailiwick Guides is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://6c1cd823-4304-4684-b331-0e11ca23eaa3.vercel.app",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app",
+    "splashImageUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/image.png",
     "tagline": "Bailiwick Guides",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/screenshot.png",
+      "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://6c1cd823-4304-4684-b331-0e11ca23eaa3.vercel.app/api/webhook"
+    "webhookUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/api/webhook"
   }
 }
