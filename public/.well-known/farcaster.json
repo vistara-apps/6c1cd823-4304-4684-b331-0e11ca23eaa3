@@ -10,7 +10,7 @@
     "subtitle": "Built with Zara",
     "description": "Bailiwick Guides is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app",
+    "homeUrl": "https://6c1cd82343044684b3310e11ca23eaa3-queu.vercel.app",
     "splashImageUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
     "heroImageUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/image.png",
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://6c1cd82343044684b3310e11ca23eaa3-qmco.vercel.app/api/webhook"
+    "webhookUrl": "https://6c1cd82343044684b3310e11ca23eaa3-queu.vercel.app/api/webhook"
   }
 }
