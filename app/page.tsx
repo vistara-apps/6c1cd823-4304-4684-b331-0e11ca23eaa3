@@ -70,7 +70,7 @@ export default function HomePage() {
   };
 
   const handleRecordingComplete = (recording: Recording) => {
-    const content = generateIncidentSummary(recording.location, recording.timestamp, recording.notes);
+    const content = generateIncidentSummary(recording.location || null, recording.timestamp, recording.notes);
     const card: ShareableCardType = {
       cardId: `incident_${Date.now()}`,
       userId: recording.userId,
