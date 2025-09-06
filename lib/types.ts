@@ -26,7 +26,7 @@ export interface Recording {
   location?: {
     latitude: number;
     longitude: number;
-  };
+  } | null;
   mediaUrl?: string;
   notes?: string;
   duration?: number;
