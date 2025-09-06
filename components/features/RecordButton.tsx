@@ -43,7 +43,7 @@ export function RecordButton({ onRecordingComplete }: RecordButtonProps) {
           recordingId: `rec_${Date.now()}`,
           userId: 'current_user', // In production, get from auth
           timestamp: new Date(),
-          location,
+          location: location || undefined,
           duration: recordingTime,
           notes: ''
         };
